@@ -1,4 +1,4 @@
-ETH Electrical Engineer student specialising in Signal Processing and Machine Learning.
+ETH Zurich Electrical Engineer student specialising in Signal Processing and Machine Learning.
 
 Currently working on Device Agnostic Channel Charting (BA --> link in this README to Bachelor Thesis)
 Currently learning Y
